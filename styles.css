@@ -1,4 +1,10 @@
-table ,th ,tr, td{
-    border: 1px solid black;
-    text-align: center;
+span {
+    font-style: oblique;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: normal;
+    font-family: 'Times New Roman', Times, serif;
+    /* Abreviatura */
+    font: oblique small-caps bold 30px normal 'Times New Roman', Times,serif 
 }
